@@ -136,7 +136,6 @@ nav > ul {
   left: 0;
   width: 100%;
   background: #e0e1e2;
-  color:black;
   text-align: left; }
   @media only screen and (max-width: 568px) {
     nav > ul {
@@ -165,7 +164,7 @@ nav > ul {
       letter-spacing: 0.1em;
       text-transform: uppercase;
       text-decoration: none;
-      color: white; }
+      color: black; }
       @media only screen and (max-width: 568px) {
         nav > ul li a {
           padding: 0.5em;
