@@ -1,5 +1,5 @@
 .highlight .hll { background-color: #333333 }
-.highlight  { background: #000044; color: #ffffff }
+.highlight  { background: #111111; color: #ffffff }
 .highlight .c { color: #008800; font-style: italic; background-color: #0f140f } /* Comment */
 .highlight .err { color: #ffffff } /* Error */
 .highlight .g { color: #ffffff } /* Generic */
@@ -135,7 +135,7 @@ nav > ul {
   top: 7.63em;
   left: 0;
   width: 100%;
-  background: #111111;
+  background: #000088;
   text-align: left; }
   @media only screen and (max-width: 568px) {
     nav > ul {
