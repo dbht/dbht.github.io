@@ -4,6 +4,7 @@ markdown: 'redcarpet'
 redcarpet:
   extensions: ['no_intra_emphasis', 'tables']
 permalink: pretty
-pygments: true
+highlighter: 'pygments'
 safe: false
-host: www.dongbuhuating.com
+url: "http://www.dongbuhuating.com"
+description: "东部华庭"
