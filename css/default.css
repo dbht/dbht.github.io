@@ -164,7 +164,7 @@ nav > ul {
       letter-spacing: 0.1em;
       text-transform: uppercase;
       text-decoration: none;
-      color: white; }
+      color: #feeeed; }
       @media only screen and (max-width: 568px) {
         nav > ul li a {
           padding: 0.5em;
