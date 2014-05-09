@@ -72,7 +72,7 @@ html {
   margin: 0;
   padding: 0;
   border: none;
-  background: #333333;
+  background: #222222;
   color: white;
   font-family: "Georgia", "Times New Roman", serif; }
 
@@ -108,7 +108,7 @@ h1 {
   h1:hover {
     background-position: right bottom; }
   h1 a {
-    color: ebffb4;
+    color: #ebffb4;
     text-decoration: none; }
     h1 a:hover {
       color: #ebffb4; }
