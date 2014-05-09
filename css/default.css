@@ -221,10 +221,12 @@ h3 {
     color: #b3b3b3; }
 
 h4 {
-  font-family: "Helvetica Neue", "Helvetica", sans-serif; }
+  font-family: "Helvetica Neue", "Helvetica", sans-serif; 
+  color:#99d9ea;}
+
   h4 + p {
     padding: 1em;
-    background: #99d9ea; }
+    background: #111111; }
 
 img {
   display: block;
