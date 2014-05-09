@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 户型图
+title: 东部华庭
 ---
 
 ##户型图
