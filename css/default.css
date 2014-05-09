@@ -135,8 +135,8 @@ nav > ul {
   top: 7.63em;
   left: 0;
   width: 100%;
-  background: #f0f0f0;
-  color:#000000;
+  background: #e0e1e2;
+  color:black;
   text-align: left; }
   @media only screen and (max-width: 568px) {
     nav > ul {
