@@ -72,7 +72,7 @@ html {
   margin: 0;
   padding: 0;
   border: none;
-  background: #222222;
+  background: #333333;
   color: white;
   font-family: "Georgia", "Times New Roman", serif; }
 
@@ -135,7 +135,7 @@ nav > ul {
   top: 7.63em;
   left: 0;
   width: 100%;
-  background: #c6e567;
+  background: #000000;
   text-align: left; }
   @media only screen and (max-width: 568px) {
     nav > ul {
@@ -164,7 +164,7 @@ nav > ul {
       letter-spacing: 0.1em;
       text-transform: uppercase;
       text-decoration: none;
-      color: black; }
+      color: white; }
       @media only screen and (max-width: 568px) {
         nav > ul li a {
           padding: 0.5em;
