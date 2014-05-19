@@ -220,9 +220,11 @@ h3 {
     font-size: 0.7em;
     color: #b3b3b3; }
 
-h4 {
-  font-family: "Helvetica Neue", "Helvetica", sans-serif; 
-  color:#99d9ea;}
+h4
+{
+    font-family: 'SimHei';
+    color: #99d9ea;
+}
 
   h4 + p {
     padding: 1em;
